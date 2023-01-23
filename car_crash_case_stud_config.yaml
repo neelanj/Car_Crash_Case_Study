@@ -1,0 +1,31 @@
+case_study_config:
+  - file_name: 'charges_df'  
+    header: 'True' 
+    inferSchema: 'True'
+    path: "/FileStore/tables/Charges_use.csv"
+	
+  - file_name: 'damages_df'
+    header: 'True' 
+    inferSchema: 'True'
+    path: "/FileStore/tables/Damages_use.csv"
+    
+  - file_name: 'endorse_df'
+    header: 'True' 
+    inferSchema: 'True'
+    path: "/FileStore/tables/Endorse_use.csv"
+    
+  - file_name: 'restrict_df'
+    header: 'True' 
+    inferSchema: 'True'
+    path: "/FileStore/tables/Restrict_use.csv"
+    
+  - file_name: 'units_df'
+    header: 'True' 
+    inferSchema: 'True'
+    path: "/FileStore/tables/Units_use.csv"
+        
+  - file_name: 'primary_person_df'
+    header: 'True' 
+    inferSchema: 'True'
+    path: "/FileStore/tables/Primary_Person_use.csv"
+        
